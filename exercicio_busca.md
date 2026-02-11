@@ -44,3 +44,6 @@ Para cada cenário, você deve preencher a seguinte ficha:
 
 ## 🚀 Entrega
 Entregue um documento PDF ou Texto com os dois cenários descritos.
+> **Enviar para o professor:** `karan.luciano@afya.com.br`
+> 
+> **Assunto do E-mail:** [IA] Nome do Aluno - Atividade Busca
